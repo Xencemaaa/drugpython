@@ -21,12 +21,11 @@ For our study, we will consider that people that have never used or that have us
 We chose to focus on Cannabis, as there is almost the same number of people that have used it than people that have never used it. 
 We would like to predict wheter or not a person consumes Cannabis. That is why we have trained multiple machine learning models with Sklearn:
 
-	Linear Regression;
-	Logistic Regression;
-	Gradiant Boosting Classifier;
-	Linear Classifiers with Stochastic Gradient Descent;
-	Decision Tree Classifier;
-	Random Forest Classifier;
+	Support Vector Machine Learning
+	Gradient Boosting
+	XGBoost
+	Bagging Classifier
+	Extra Trees Classifier
 
 
 To conclude, we are able to predict with a best score of 0.8 that a personne consumes or not Cannabis. The best model will vary but, the score pretty much stays the same. By choosing the
