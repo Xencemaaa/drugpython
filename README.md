@@ -1,6 +1,6 @@
 # drugpython
 
-Python for Data Analysis final project: 
+Python for Data Analysis final project: Victoria Garnil, Adrien Foresier and Maxence Ferreira
 
 
 This project was done on the Drug consumption (quantified) DataSet.
