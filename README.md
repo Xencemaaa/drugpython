@@ -1,4 +1,4 @@
-# drugpython
+# Drug Consumption Data Analysis
 
 Python for Data Analysis final project: Victoria Garnil, Adrien Foresier and Maxence Ferreira
 
