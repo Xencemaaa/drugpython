@@ -20,6 +20,7 @@ this dataset. This drug was introduced to the survey in order to catch potential
 # Problem
 How to predict drug use, and more specifically Cannabis use, according to different parameters (personal and environmental) ?
 
+The focus is on the use or non-use of Cannabis. It is a binary problem and therefore a classification problem. 
 
 For our study, we will consider that people that have never used or that have used drugs over a decade ago or last decade as non-user, others will be considered users.
 We chose to focus on Cannabis, as there is almost the same number of people that have used it than people that have never used it. 
