@@ -17,6 +17,10 @@ In these 19 drugs, we can find Cannabis, Cocaine, Kethamine, LSD, Meth or even c
 this dataset. This drug was introduced to the survey in order to catch potential liars that would prejudice the machine learning models.
 
 
+# Problem
+How to predict drug use, and more specifically Cannabis use, according to different parameters (personal and environmental) ?
+
+
 For our study, we will consider that people that have never used or that have used drugs over a decade ago or last decade as non-user, others will be considered users.
 We chose to focus on Cannabis, as there is almost the same number of people that have used it than people that have never used it. 
 We would like to predict wheter or not a person consumes Cannabis. That is why we have trained multiple machine learning models with Sklearn:
@@ -28,6 +32,7 @@ We would like to predict wheter or not a person consumes Cannabis. That is why w
 	Extra Trees Classifier
 
 
+# Conclusion
 To conclude, we are able to predict with a best score of 0.8 that a personne consumes or not Cannabis. The best model will vary but, the score pretty much stays the same. By choosing the
 best hyperparameters we are capable of maximizing the best score.
 
