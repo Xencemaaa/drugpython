@@ -23,7 +23,7 @@ We would like to predict wheter or not a person consumes Cannabis. That is why w
 
 	Linear Regression;
 	Logistic Regression;
-	Linear Discriminant Analysis;
+	Gradiant Boosting Classifier;
 	Linear Classifiers with Stochastic Gradient Descent;
 	Decision Tree Classifier;
 	Random Forest Classifier;
