@@ -1,6 +1,6 @@
 # drugpython
 
-Python for Data Analytics final project: 
+Python for Data Analysis final project: 
 
 
 This project was done on the Drug consumption (quantified) DataSet.
